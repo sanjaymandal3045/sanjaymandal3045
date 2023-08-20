@@ -1,5 +1,3 @@
-<img alt="Sanjay" src="https://github.com/sanjaymandal3045/sanjaymandal3045/assets/56470929/8ef87940-362e-4b11-8860-75335a588e8b" style="max-width: 100%;">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sanjay!;I'm+a+trainee-MERN+Stack+Developer+at+BJIT...;I+love+Football,+Anime,+Games...;And+I'm+a+learner+observer..)](https://git.io/typing-svg)
 
 # 💫 About Me:
