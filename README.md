@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sanjay!;I'm+a+trainee-MERN+Stack+Developer+at+BJIT...;I+love+Football,+Anime,+Games...;And+I'm+a+learner+observer..)](https://git.io/typing-svg)
+
 # 💫 About Me:
 I am currently working at BJIT as a trainee software engineer.<br>I am learning full stack web development.<br>Ask me about MongoDB, React, NodeJS, ExpressJS
 
